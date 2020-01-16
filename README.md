@@ -10,3 +10,6 @@ I need to taggle some issues to feel comfortable. You find my solutions in this 
 
 https://apple.stackexchange.com/questions/379115/can-macos-change-the-symbol-to-be-located-with-the-q-key
 
+
+Chrome looses pinned tabs:
+https://superuser.com/a/1162042/95878
